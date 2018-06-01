@@ -1,6 +1,6 @@
 document.writeln("<div id=\'flow_wx\' style=\'z-index:9999; position:fixed;\'>");
 document.writeln("<p id=\'wx_icon\' style=\'display: block;\'></p>");
-document.writeln("<div id=\'wx_copy\' style=\'display: none;\'> <span class=\'xw_account\' num=\'99\'>howhow999</span><br>");
+document.writeln("<div id=\'wx_copy\' style=\'display: none;\'> <span class=\'xw_account\' num=\'99\'>ybingbing918</span><br>");
 document.writeln("<em id=\'copy_num\'>（长按复制微信号，添加关注）</em><br>");
 document.writeln("<ii><a href=\'weixin://\'><img src=\'goods/wx/wx02.gif\'></a></ii>");
 document.writeln("<p id=\'close_wx\'></p>");
